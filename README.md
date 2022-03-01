@@ -1,2 +1,2 @@
 # Code_wars.py
-Place to fold soltions from code wars kata's
+Place to fold solutions from code wars kata's
